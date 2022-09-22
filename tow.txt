@@ -1,1 +1,2 @@
 hi there this is new repository two.txt
+Hi choyon we chane in the remote reposatory
